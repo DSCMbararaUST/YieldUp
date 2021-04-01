@@ -91,6 +91,6 @@ Then run
 
 ``` python manage.py runserver ``` to run the server
 
-<blockquote>The fully functional app can be found  <a href ="https://yielduup.herokuapp.com/" target="_blank">here online</a></blockquote>
+<blockquote>The fully functional app can be found  <a href ="https://yieldupp.herokuapp.com/" target="_blank">here online</a></blockquote>
 
 
